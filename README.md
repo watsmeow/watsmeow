@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">Creator of web-based applications with experience in data analysis and program management. Effectively develops products by blending technical skills with efficient processes.
+![website](https://user-images.githubusercontent.com/99840213/164116019-99f23757-f99e-4609-a847-b5255155f236.JPG)
+<h1 align="center">Hi, I'm Andrea</h1>
+<h3 align="center">A creator of web-based applications with experience in data analysis and program management. I effectively develop products by blending technical skills with efficient processes.
   <br>👨‍💻 <a href="https://watsmeow.com" target="_blank">https://watsmeow.com</a>
 <br>📫 **awatson.e@gmail.com**</h3>
 
