@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">Creator of web-based applications with experience in data analysis and program management. Effectively develops products by blending technical skills with efficient processes.</h3>
-
-- 👨‍💻 All of my projects are available at [watsmeow.com](watsmeow.com)
-
-- 📫 How to reach me **awatson.e@gmail.com**
+<h3 align="center">Creator of web-based applications with experience in data analysis and program management. Effectively develops products by blending technical skills with efficient processes.
+  <br>👨‍💻 <a href="https://watsmeow.com" target="_blank">https://watsmeow.com</a>
+<br>📫 **awatson.e@gmail.com**</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
