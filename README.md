@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">Creator of web-based applications with experience in data analysis and program management. Knows how to effectively develop products by blending technical skills with efficient processes.</h3>
+<h3 align="center">Creator of web-based applications with experience in data analysis and program management. Effectively develops products by blending technical skills with efficient processes.</h3>
 
 - 👨‍💻 All of my projects are available at [watsmeow.com](watsmeow.com)
 
