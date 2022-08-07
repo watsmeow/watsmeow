@@ -1,13 +1,16 @@
-<img scr="https://user-images.githubusercontent.com/99840213/183297469-1e710010-2683-41f8-b160-f9decf063b18.png" height=200px/>
-<h1 align="center">Hi, I'm Andrea</h1>
-<h3 align="center">A creator of web-based applications with experience in data analysis and program management. I effectively develop products by blending technical skills with efficient processes.
-  <br>👨‍💻 <a href="https://www.watsmeow.com/" target="_blank">https://www.watsmeow.com/</a>
-<br>📫 awatson.e@gmail.com</h3>
+### Hello
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aewatson47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aewatson47/" height="30" width="40" /></a>
-</p>
+<img width="35%" align="right" alt="Github" src="[https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif](https://user-images.githubusercontent.com/99840213/183297469-1e710010-2683-41f8-b160-f9decf063b18.png)" />
+
+A creator of web-based applications with experience in data analysis and program management. I effectively develop products by blending technical skills with efficient processes.
+
+- 📚 I’m currently enjoying working on backend web development using NodeJS, ExpressJS and MongoDB.
+- 👯 I’m looking for a full time software development position. 
+- 📫 How to reach me: 
+  - <a href="https://www.watsmeow.com/" target="_blank">https://www.watsmeow.com/</a> 
+  - [Linkedin](https://www.linkedin.com/in/aewatson47) 
+  - [Gmail](mailto:awatson.e@gmail.com)
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
