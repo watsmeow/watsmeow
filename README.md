@@ -1,6 +1,6 @@
 ### Hello
 
-<img width="35%" align="right" alt="Github" src="[https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif](https://user-images.githubusercontent.com/99840213/183297469-1e710010-2683-41f8-b160-f9decf063b18.png)" />
+<img width="35%" align="right" alt="Github" src="(https://user-images.githubusercontent.com/99840213/183297429-86a6bed8-f587-4c18-803d-5e05a732931c.jpg)" />
 
 A creator of web-based applications with experience in data analysis and program management. I effectively develop products by blending technical skills with efficient processes.
 
