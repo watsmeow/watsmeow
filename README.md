@@ -4,9 +4,9 @@
 
 I'm a creator of web-based applications with experience in data analysis and program management. I effectively develop products by blending technical skills with efficient processes.
 
-- 📚 I’m currently enjoying working on backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a full time software development position. 
-- 📫 How to reach me: 
+- I’m currently enjoying working on backend web development using NodeJS, ExpressJS and MongoDB.
+- I’m looking for a full time software development position. 
+- How to reach me: 
   - [Portfolio Website: watsmeow.com](https://www.watsmeow.com/)
   - [Linkedin](https://www.linkedin.com/in/aewatson47) 
   - [Gmail](mailto:awatson.e@gmail.com)
