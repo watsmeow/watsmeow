@@ -1,4 +1,4 @@
-![website](![image](https://user-images.githubusercontent.com/99840213/183297469-1e710010-2683-41f8-b160-f9decf063b18.png))
+(![image](https://user-images.githubusercontent.com/99840213/183297469-1e710010-2683-41f8-b160-f9decf063b18.png)
 <h1 align="center">Hi, I'm Andrea</h1>
 <h3 align="center">A creator of web-based applications with experience in data analysis and program management. I effectively develop products by blending technical skills with efficient processes.
   <br>👨‍💻 <a href="https://www.watsmeow.com/" target="_blank">https://www.watsmeow.com/</a>
