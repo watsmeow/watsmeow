@@ -7,9 +7,9 @@ I'm a creator of web-based applications with experience in data analysis and pro
 - I’m currently enjoying working on backend web development using NodeJS, ExpressJS and MongoDB.
 - I’m looking for a full time software development position. 
 - How to reach me: 
-  - [Portfolio Website: watsmeow.com](https://www.watsmeow.com/)
+  - Portfolio Website: [watsmeow.com](https://www.watsmeow.com/)
   - [Linkedin](https://www.linkedin.com/in/aewatson47) 
-  - awatson.e@gmail.com
+  - Email: awatson.e@gmail.com
 
 
 <h3>Languages and Tools:</h3>
