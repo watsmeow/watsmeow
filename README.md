@@ -4,7 +4,7 @@
 
 I'm a creator of web-based applications with experience in data analysis and program management. I effectively develop products by blending technical skills with efficient processes.
 
-- I enjoy working on backend web development using NodeJS, ExpressJS and MongoDB.
+- I enjoy working on full stack and backend web development using NodeJS, ExpressJS, ReactJS and MongoDB.
 - I’m looking for a full time software development position. 
 - How to reach me: 
   - Portfolio Website: [watsmeow.com](https://www.watsmeow.com/)
