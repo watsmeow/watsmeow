@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="hello" src="https://user-images.githubusercontent.com/99840213/183298703-d7284920-b9b7-40c1-84f0-20b2c8b294f1.jpg" />
 
-I'm a creator of web-based applications with experience in data analysis and program management. I effectively develop products by blending technical skills with efficient processes.
+Creator of web-based applications that combine functionality and enjoyable design. Able to effectively communicate technical ideas interdepartmentally.
 
 - I enjoy working on full stack and backend web development using NodeJS, ExpressJS, ReactJS and MongoDB.
 - I’m looking for a full time software development position. 
