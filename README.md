@@ -4,8 +4,9 @@
 
 Creator of web-based applications that combine functionality and enjoyable design. Able to effectively communicate technical ideas interdepartmentally.
 
-- I enjoy working on full stack and backend web development using NodeJS, ExpressJS, ReactJS and MongoDB.
-- I’m currently learning Java.
+- Java developer.
+- MERN stack enthusiast.
+- Data afficionado.
 - How to reach me: 
   - Portfolio Website: [watsmeow.com](https://www.watsmeow.com/)
   - [Linkedin](https://www.linkedin.com/in/aewatson47) 
