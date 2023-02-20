@@ -2,11 +2,6 @@
 
 <img width="35%" align="right" alt="hello" src="https://user-images.githubusercontent.com/99840213/183298703-d7284920-b9b7-40c1-84f0-20b2c8b294f1.jpg" />
 
-Creator of web-based applications that combine functionality and enjoyable design. Able to effectively communicate technical ideas interdepartmentally.
-
-- Java developer.
-- MERN stack enthusiast.
-- Data afficionado.
 - How to reach me: 
   - Portfolio Website: [watsmeow.com](https://www.watsmeow.com/)
   - [Linkedin](https://www.linkedin.com/in/aewatson47) 
