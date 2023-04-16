@@ -3,9 +3,10 @@
 ### Hello!
 
 - How to reach me: 
+  - Email: awatson.e@gmail.com 
   - [Linkedin](https://www.linkedin.com/in/aewatson47) 
-  - Email: awatson.e@gmail.com
-  - Portfolio Website: [watsmeow.com](https://www.watsmeow.com/)
+  - [Tableau](https://public.tableau.com/app/profile/andrea2938)
+  - [watsmeow.com](https://www.watsmeow.com/)
 
 <!-- 
 <h3>Languages and Tools:</h3>
