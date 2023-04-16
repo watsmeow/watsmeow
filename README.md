@@ -3,9 +3,9 @@
 ### Hello!
 
 - How to reach me: 
-  - Portfolio Website: [watsmeow.com](https://www.watsmeow.com/)
   - [Linkedin](https://www.linkedin.com/in/aewatson47) 
   - Email: awatson.e@gmail.com
+  - Portfolio Website: [watsmeow.com](https://www.watsmeow.com/)
 
 <!-- 
 <h3>Languages and Tools:</h3>
